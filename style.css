@@ -1,0 +1,36 @@
+h1 {
+            text-align: center;
+            font-weight: normal;
+        }
+
+        div {
+            width: 400px;
+            margin: auto;
+
+        }
+
+        #red {
+            height: 90px;
+            background-color: red;
+        }
+
+        #white {
+            height: 10px;
+            background-color: white;
+        }
+
+        #blue {
+            height: 70px;
+            background-color: blue;
+        }
+
+        #green {
+            height: 90px;
+            background-color: green;
+        }
+
+        #read-about {
+            text-align: center;
+            margin-top: 10px;
+
+        }
